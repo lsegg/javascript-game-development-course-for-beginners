@@ -22,6 +22,10 @@ These are the projects from the [JavaScript Game Development Course for Beginner
 
 ![preview](https://github.com/lsegg/javascript-game-development-course-for-beginners/blob/main/enemy-movement-patterns/assets/preview.png?raw=true)
 
+- Collision animation from a sprite sheet
+
+![preview](https://github.com/lsegg/javascript-game-development-course-for-beginners/blob/main/collision-animation-from-a-sprite-sheet/assets/preview.png?raw=true)
+
 ## Requirements ⚙️
 
 A text editor like [Visual Studio Code](https://code.visualstudio.com/) and a development local server such as [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
