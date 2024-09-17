@@ -10,11 +10,16 @@ These are the projects from the [JavaScript Game Development Course for Beginner
 
 ## Previews 👁️
 
-Vanilla JavaScript sprite animation
+- Vanilla JavaScript sprite animation
+
 ![preview](https://github.com/lsegg/javascript-game-development-course-for-beginners/blob/main/vanilla-js-sprite-animation/assets/preview.png?raw=true)
-Parallax backgrounds with JavaScript
+
+- Parallax backgrounds with JavaScript
+
 ![preview](https://github.com/lsegg/javascript-game-development-course-for-beginners/blob/main/js-parallax-backgrounds/assets/preview.png?raw=true)
-Enemy movement patterns
+
+- Enemy movement patterns
+
 ![preview](https://github.com/lsegg/javascript-game-development-course-for-beginners/blob/main/enemy-movement-patterns/assets/preview.png?raw=true)
 
 ## Requirements ⚙️
