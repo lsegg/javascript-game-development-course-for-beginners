@@ -30,6 +30,10 @@ These are the projects from the [JavaScript Game Development Course for Beginner
 
 <video src="point-and-shoot-game/assets/preview.mp4" controls></video>
 
+- Enemy Variety
+
+<video src="enemy-variety/preview.mp4" controls></video>
+
 ## Requirements ⚙️
 
 A text editor like [Visual Studio Code](https://code.visualstudio.com/) and a development local server such as [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
