@@ -12,27 +12,27 @@ These are the projects from the [JavaScript Game Development Course for Beginner
 
 - Vanilla JavaScript sprite animation
 
-<img src="vanilla-js-sprite-animation/assets/preview.png" width="400" />
+<img src="practice/vanilla-js-sprite-animation/assets/preview.png" width="400" />
 
 - Parallax backgrounds with JavaScript
 
-<img src="js-parallax-backgrounds/assets/preview.png" width="400" />
+<img src="practice/js-parallax-backgrounds/assets/preview.png" width="400" />
 
 - Enemy movement patterns
 
-<img src="enemy-movement-patterns/assets/preview.png"  />
+<img src="practice/enemy-movement-patterns/assets/preview.png"  />
 
 - Collision animation from a sprite sheet
 
-<img src="collision-animation-from-a-sprite-sheet/assets/preview.png" width="300" />
+<img src="practice/collision-animation-from-a-sprite-sheet/assets/preview.png" width="300" />
 
 - Point & shoot game
 
-<video src="point-and-shoot-game/assets/preview.mp4" controls></video>
+<video src="https://github.com/lsegg/javascript-game-development-course-for-beginners/blob/main/practice/point-and-shoot-game/assets/preview.mp4" controls></video>
 
 - Enemy Variety
 
-<video src="enemy-variety/preview.mp4" controls></video>
+<video src="https://github.com/lsegg/javascript-game-development-course-for-beginners/blob/main/practice/enemy-variety/preview.mp4" controls></video>
 
 ## Requirements ⚙️
 
