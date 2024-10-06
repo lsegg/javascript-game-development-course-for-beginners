@@ -8,13 +8,17 @@ This is the codealong project for the [JavaScript Game Development Course for Be
 - [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS) - Stylesheet language
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Lightweight programming language
 
-## Features
+## Features 📋
 
-- Vanilla JavaScript sprite animation
-- Parallax backgrounds with JavaScript
-- Enemy movement patterns
-- Collision animation from a sprite sheet
-- Enemy Variety
+- Vanilla JavaScript sprite animation (parallax backgrounds, enemy movement patterns, collisions, etc)
+- 4 principles of Object Oriented Programming:
+  - Encapsulation
+  - Inheritance
+  - Polymorphism
+  - Abstraction
+- Debug mode
+
+## Previews
 
 ## Requirements ⚙️
 

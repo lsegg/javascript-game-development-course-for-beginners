@@ -4,19 +4,34 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>JavaScript 2D game</title>
+    <link rel="shortcut icon" href="assets/favicon.png" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Creepster&display=swap"
+      rel="stylesheet"
+    />
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
     <canvas id="canvas1"></canvas>
-    <img id="playerImage" src="assets/player.png" alt="player" />
+    <img id="player" src="assets/player.png" alt="player" />
+    <img id="layer1" src="assets/layer-1.png" alt="background layer" />
+    <img id="layer2" src="assets/layer-2.png" alt="background layer" />
+    <img id="layer3" src="assets/layer-3.png" alt="background layer" />
+    <img id="layer4" src="assets/layer-4.png" alt="background layer" />
+    <img id="layer5" src="assets/layer-5.png" alt="background layer" />
+    <img id="enemy_fly" src="assets/enemy_fly.png" alt="flying enemy" />
+    <img id="enemy_plant" src="assets/enemy_plant.png" alt="ground enemy" />
     <img
-      id="backgroundImage"
-      src="assets/background_single.png"
-      alt="background"
+      id="enemy_spider_big"
+      src="assets/enemy_spider_big.png"
+      alt="climbing enemy"
     />
-    <img id="enemyImage" src="assets/enemy_1.png" alt="enemy" />
-    <button id="fullScreenButton">Fullscreen</button>
+    <img id="fire" src="assets/fire.png" alt="fire" />
+    <img id="collisionAnimation" src="assets/boom.png" alt="collision" />
+    <img id="life" src="assets/heart.png" alt="player's life" />
 
-    <script src="script.js"></script>
+    <script type="module" src="scripts/main.js"></script>
   </body>
 </html>

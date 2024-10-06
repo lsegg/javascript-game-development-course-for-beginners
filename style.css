@@ -1,19 +1,15 @@
-*{
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
-body {
-  background: black;
-}
-
 #canvas1 {
+  border: 5px solid black;
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  border: 5px solid white;
   max-width: 100%;
   max-height: 100%;
 }
@@ -30,4 +26,10 @@ img {
   left: 50%;
   transform: translateX(-50%);
   border-radius: 3px;
+}
+
+.creepster-regular {
+  font-family: "Creepster", system-ui;
+  font-weight: 400;
+  font-style: normal;
 }
