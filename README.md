@@ -1,6 +1,6 @@
 # JavaScript Game Development Course for Beginners
 
-This is the codealong project for the [JavaScript Game Development Course for Beginners](https://www.youtube.com/watch?v=GFO_txvwK_c) by freeCodeCamp.
+This is the codealong endless runner game for the [JavaScript Game Development Course for Beginners](https://www.youtube.com/watch?v=GFO_txvwK_c) by freeCodeCamp.
 
 ## Built with 🛠️
 
@@ -18,7 +18,11 @@ This is the codealong project for the [JavaScript Game Development Course for Be
   - Abstraction
 - Debug mode
 
-## Previews
+## Previews 👁️
+
+![preview](https://github.com/lsegg/javascript-game-development-course-for-beginners/blob/main/assets/preview.png?raw=true)
+
+![preview_game_over](https://github.com/lsegg/javascript-game-development-course-for-beginners/blob/main/assets/preview-game-over.png?raw=true)
 
 ## Requirements ⚙️
 
