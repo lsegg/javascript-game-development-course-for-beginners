@@ -22,6 +22,8 @@ This is the codealong endless runner game for the [JavaScript Game Development C
 
 ![preview](https://github.com/lsegg/javascript-game-development-course-for-beginners/blob/main/assets/preview.png?raw=true)
 
+![preview_enemy_hit](https://github.com/lsegg/javascript-game-development-course-for-beginners/blob/main/assets/preview-enemy-hit.png?raw=true)
+
 ![preview_game_over](https://github.com/lsegg/javascript-game-development-course-for-beginners/blob/main/assets/preview-game-over.png?raw=true)
 
 ## Requirements ⚙️
